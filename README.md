@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-hanalif619-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:hanalif619@gmail.com)](mailto:hanalif619@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/hana-lipschutz/)](https://www.linkedin.com/in/hana-lipschutz/)
 
-
+### “THINGS ARE NOT ALWAYS #000000 AND #FFFFFF”
 
 |  🚀**Projects**  |💻 **Technologies** |
 | - | - |
@@ -13,6 +13,3 @@
 | [![Higherr-Backend](https://img.shields.io/static/v1?label=&message=Higherr-Backend&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/hanalif/Higherr-Backend) [![mister-toy](https://img.shields.io/static/v1?label=&message=mister-toy&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/hanalif/mister-toy)|  [![MongoDb](https://img.shields.io/static/v1?label=&message=mongoDB&color=00e661&logo=mongodb&logoColor=FFFFFF)](https://www.javascript.org/) [![SocketIo](https://img.shields.io/static/v1?label=&message=socket.io&color=38b27e&logo=socket.io&logoColor=FFFFFF)](https://www.javascript.org/)  [![JavaScript](https://img.shields.io/static/v1?label=&message=JS&color=f7e018&logo=JavaScript&logoColor=FFFFFF)](https://www.javascript.org/)   | 
 | [![netanelfish](https://img.shields.io/static/v1?label=&message=netanelfish&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/hanalif/netanelfish) [![missBooks](https://img.shields.io/static/v1?label=&message=missBooks&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/hanalif/missBooks) [![meme-generator](https://img.shields.io/static/v1?label=&message=meme-generator&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/hanalif/meme-generator) [![minesweeper](https://img.shields.io/static/v1?label=&message=minesweeper&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/hanalif/minesweeper) [![apssus](https://img.shields.io/static/v1?label=&message=appsus&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/hanalif/appsus) | [![JavaScript](https://img.shields.io/static/v1?label=&message=JS&color=f7e018&logo=JavaScript&logoColor=FFFFFF)](https://www.javascript.org/)  [![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=dd4b25&logo=HTML5&logoColor=FFFFFF)](https://www.javascript.org/) [![CSS](https://img.shields.io/static/v1?label=&message=CSS&color=254bdd&logo=css3&logoColor=FFFFFF)](https://www.javascript.org/)|
 
-“Things aren’t always #000000 and #FFFFFF”
-
-– HTML Proverb
