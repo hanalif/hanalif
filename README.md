@@ -1,7 +1,7 @@
 
 #  👩🏻‍💻 [Hana Lipschutz](https://www.linkedin.com/in/hana-lipschutz/) 
 
-I am passionate about writing code and making an impact on the end product and user experience. I have good experience with JavaScript and I have also worked with popular frameworks.  I enjoy learning and advancing in this field. 
+
 
 [![Gmail Badge](https://img.shields.io/badge/-hanalif619-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:hanalif619@gmail.com)](mailto:hanalif619@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/hana-lipschutz/)](https://www.linkedin.com/in/hana-lipschutz/)
